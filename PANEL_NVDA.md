@@ -1,0 +1,5 @@
+**Panel decision: use the disagreement to guide research.** Buffett's three business checks pass and its verdict is **watch**. Wood-style growth and R&D checks pass and its verdict is **fit** for innovation research. Burry's latest leverage check passes, but its every-year operating-cash-flow-versus-net-income check fails; its verdict is **watch**. A pass in one lens does not settle the other lens's question.
+
+The panel is a screen, not a trading vote. All three use one SEC fact selector, and these fields omit price, a full valuation, and the filing-note work needed to explain cash conversion or forecast an adoption curve.
+
+Fund choice: VT was the equity fund in the Project 2 universe. [Vanguard's September 2026 fact sheet](https://institutional.vanguard.com/assets/corp/fund_communications/pdf_publish/us-products/fact-sheet/F3141.pdf) lists NVIDIA first among VT holdings; NVIDIA has a [2026 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm) on EDGAR. The [2024 10-K](https://www.sec.gov/Archives/edgar/data/1045810/000104581024000029/nvda-20240128.htm) supplies earlier comparative years.
